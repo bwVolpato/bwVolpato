@@ -11,7 +11,7 @@ tokyonight
 
 <div align="center">
   <a href="https://github.com/bwVolpato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bwVolpato&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bwVolpato&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwVolpato&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
@@ -19,7 +19,6 @@ tokyonight
   <img align="center" alt="Samara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Samara-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="Samara-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Samara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Samara-pic" height="150" style="border-radius:150px" src="https://i.pinimg.com/originals/7a/9f/bb/7a9fbba50ca0f76593130336f5ff9092.gif">
